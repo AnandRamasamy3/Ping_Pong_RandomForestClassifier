@@ -2,7 +2,7 @@
 Ping pong game played by Random Forest algorithm
 
 
-#1. Install python
+#1. Install python<br/>
 #2. Install pygame
       open "cmd" and type "pip install pygame" and hit enter
 #3. download this repository and extract it
